@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 5 questions
+# May want to ask user name first
 echo Hello, what is your age?
 read ans1
 
