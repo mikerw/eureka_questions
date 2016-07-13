@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # May want to ask user name first
-echo Hello, what is your Git
+echo Hello, what is your github user name?
 read ans1
 
 echo What is the furthest distance you have travelled in km?
